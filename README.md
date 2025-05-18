@@ -1,60 +1,45 @@
-# 👋 Bonjour, I'm Romain
+```markdown
+# 👋 Hi, I’m Romain
 
-## 🛡️ R&D Cybersecurity  | DFIR Practitioner | Aspiring DevSecOps Engineer
+## 💼 Work
+- ✨ **I’m currently working on**
+  - Advancing DFIR techniques through live incident response simulations.
+- 🤝 **I’m looking to collaborate on**
+  - Open-source DevSecOps pipelines for containerized environments.
 
-I'm a tech-savvy individual with a passion for cybersecurity, digital forensics, and incident response. Currently exploring opportunities in IT administration and DevSecOps, I thrive on unraveling complex security challenges and staying ahead in the ever-evolving digital landscape.
+## 🎯 I’m looking for help with
+- Designing automated threat-hunting workflows.
 
----
+## 📚 I’m currently learning
+- Docker containerization (interactive, recursive course).
+- BIND9 configuration and Certificate Authority concepts.
 
-## 🧠 About Me
+## ❓ Ask me about
+- Cyber threat intelligence (OSINT, SIEM, SOC operations).
+- Web3 security and privacy protocols.
 
-- 🎓 **Background**: Computer Specialist with a focus on Information Security.
-- 🛠️ **Current Role**: Engaged in tech support roles, honing skills in system administration and security protocols.
-- 🌐 **Interests**: Deeply intrigued by Web 3.0 technologies, economic trends, and the dynamics of digital assets.
-- 🧩 **Personal Quirk**: Known for a relentless curiosity and an insatiable appetite for knowledge.
+## 📫 How to reach me
+- Email: romain.duc@efrei.net
 
----
-
-## 🛠️ Technical Proficiencies
-
-- **Security & Forensics**: Digital Forensics, Incident Response, Threat Analysis
-- **IT Administration**: System Configuration, Network Management, Technical Support
-- **DevSecOps Tools**: Familiar with CI/CD pipelines, containerization, infrastructure as code, Snyk
-- **Scripting & Automation**: Python, Bash, PowerShell
-- **Operating Systems**: Proficient in Windows, Linux, and macOS environments
-
----
-
-## 🚀 Projects & Contributions
-
-### 🔍 Digital Forensics Case Study
-- Conducted a comprehensive analysis of a simulated security breach, utilizing forensic tools to trace intrusion vectors and recommend mitigation strategies.
-
-### 🛠️ System Hardening Initiative
-- Led a project to enhance the security posture of legacy systems, implementing best practices and compliance measures to fortify against vulnerabilities.
-
-### 📊 Web 3.0 
-- Authored a paper exploring the implications of decentralized technologies on modern cybersecurity frameworks and economic models.
+## 🔗 All of my projects are available at
+- [GitHub Profile](https://github.com/romainduc57)
 
 
+## 💼 Know about my experiences
+- MSc Cybersecurity & AI student at EFREI / Lyon 2.
 
----
+## 🎉 Fun fact
+I think I’m funny but my code reviews are brutally honest.
 
-## 🌱 Continuous Learning
+## 🚀 Projects
+- **Digital Forensics Case Study** – simulated breach analysis. [Repo](https://github.com/romain-cybersec/forensics-case-study)
+- **System Hardening Initiative** – legacy system security overhaul. [Repo](https://github.com/romain-cybersec/system-hardening)
+- **Web3 Security Research** – decentralized identity frameworks. [Repo](https://github.com/romain-cybersec/web3-security)
 
-- Currently pursuing certifications in:
-  - **CompTIA Net+/Security+**
-  - **Certified Ethical Hacker (CEH)**
-  - **AWS Certified Security – Specialty**
-
-- Regularly attending webinars and workshops on:
-  - Emerging threats and mitigation techniques
-  - Advances in blockchain security
-
----
+## 🛠️ Frameworks & Courses
+- React, Vue, GSAP
+- CompTIA Net+,  Security+, CEH, 
 
 
----
----
 
-*Let's collaborate to build a more secure digital future!*
+```
